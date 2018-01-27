@@ -1,6 +1,6 @@
 # vue-table
 
-> Vue + Vuex + Vue-router + Element-ui + Mockjs
+> vue2 + vuex + vue-router + element-ui + mockjs + axios
 
 ## Build Setup
 
