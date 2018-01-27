@@ -18,4 +18,5 @@ npm run build
 npm run build --report
 ```
 
-Reference: [widesky0.gitbooks.io/-vuejs2/content/](widesky0.gitbooks.io/-vuejs2/content/)
+## Reference
+[widesky0.gitbooks.io/-vuejs2/content/](widesky0.gitbooks.io/-vuejs2/content/)
